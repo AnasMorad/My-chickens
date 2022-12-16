@@ -1,2 +1,2 @@
-# My-chickens
-here is the whole projects that I built from scratch
+# Record of student 
+Linear regression model to predict the record of the student based on the studying hours of him.
